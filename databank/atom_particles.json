@@ -1,0 +1,26 @@
+{
+    "neutron": {
+        "particle_type": "Neutron",
+        "symbol": "n",
+        "mass": 1.00866491597,
+        "charge": 0,
+        "spin": 0.5
+      },
+      "proton": {
+        "particle_type": "Proton",
+        "symbol": "p",
+        "mass": 1.007276466879,
+        "charge": 1,
+        "spin": 0.5
+      },
+      "electron": {
+        "particle_type": "Electron",
+        "symbol": "e",
+        "mass": 0.00054857990946,
+        "charge": -1,
+        "spin": 0.5
+      }
+      
+      
+      
+}

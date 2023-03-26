@@ -1,0 +1,55 @@
+{
+    "chemical_analysis": [
+      {
+        "analysis_method": "Spectroscopy",
+        "description": "Measuring properties of matter using electromagnetic radiation.",
+        "instruments": [
+          {
+            "name": "UV-Vis spectrophotometer",
+            "applications": ["Quantitative analysis", "Molecular structure determination"]
+          },
+          {
+            "name": "IR spectrophotometer",
+            "applications": ["Chemical structure determination", "Polymer characterization"]
+          },
+          {
+            "name": "NMR spectrometer",
+            "applications": ["Molecular structure determination", "Monitoring chemical reactions"]
+          }
+        ]
+      },
+      {
+        "analysis_method": "Chromatography",
+        "description": "Separating and measuring components in a mixture.",
+        "instruments": [
+          {
+            "name": "HPLC",
+            "applications": ["Chemical analysis", "Biochemical analysis"]
+          },
+          {
+            "name": "GC",
+            "applications": ["Volatile component analysis", "Organic compound separation"]
+          },
+          {
+            "name": "LC-MS",
+            "applications": ["Bio-molecular analysis", "Drug discovery"]
+          }
+        ]
+      },
+      {
+        "analysis_method": "Electrochemistry",
+        "description": "Studying chemical changes using electrical interactions.",
+        "instruments": [
+          {
+            "name": "Potentiostat-galvanostat",
+            "applications": ["Electrochemical analysis", "Corrosion studies"]
+          },
+          {
+            "name": "Electrophoresis",
+            "applications": ["Bio-molecular analysis", "Protein separation"]
+          }
+        ]
+      }
+    ]
+  }
+  

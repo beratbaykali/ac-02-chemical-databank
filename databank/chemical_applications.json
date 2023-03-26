@@ -1,0 +1,154 @@
+{
+    "applications": [
+        {
+            "name": "Pesticides",
+            "description": "Pesticides are chemicals used to control or kill pests, including insects, weeds, fungi, and rodents. They are commonly used in agriculture and public health to protect crops and prevent the spread of diseases.",
+            "categories": {
+                "insecticides":{
+                    "name": "Insecticides",
+                    "description": "Insecticides are pesticides that are used to kill or control insects. They are commonly used in agriculture and public health to protect crops and prevent the spread of diseases carried by insects.",
+                    "examples": [
+                        "DDT",
+                        "Malathion",
+                        "Chlorpyrifos"
+                    ]
+                },
+                "herbicides":{
+                    "name": "Herbicides",
+                    "description": "Herbicides are pesticides that are used to kill or control weeds. They are commonly used in agriculture and gardening to protect crops and prevent the growth of unwanted plants.",
+                    "examples": [
+                        "Glyphosate",
+                        "Atrazine",
+                        "2,4-D"
+                    ]
+                },
+                "fungicides":{
+                    "name": "Fungicides",
+                    "description": "Fungicides are pesticides that are used to kill or control fungi. They are commonly used in agriculture and gardening to protect crops from fungal diseases.",
+                    "examples": [
+                        "Mancozeb",
+                        "Captan",
+                        "Thiophanate-methyl"
+                    ]
+                },
+                "rodenticides":{
+                    "name": "Rodenticides",
+                    "description": "Rodenticides are pesticides that are used to control rodents. They are commonly used in public health to prevent the spread of diseases carried by rodents.",
+                    "examples": [
+                        "Warfarin",
+                        "Bromadiolone",
+                        "Zinc phosphide"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Fertilizers",
+            "description": "Fertilizers are chemicals or natural substances used to enrich soil and promote plant growth. They are commonly used in agriculture and gardening to increase crop yields and improve soil fertility.",
+            "categories": {
+                "nitrogen_fertilizers":{
+                    "name": "Nitrogen fertilizers",
+                    "description": "Nitrogen fertilizers are fertilizers that contain nitrogen compounds, such as ammonium nitrate, urea, or ammonium sulfate. They are commonly used in agriculture to promote plant growth and increase crop yields.",
+                    "examples": [
+                        "Ammonium nitrate",
+                        "Urea",
+                        "Ammonium sulfate"
+                    ]
+                },
+                "phosphate_fertilizers":{
+                    "name": "Phosphate fertilizers",
+                    "description": "Phosphate fertilizers are fertilizers that contain phosphorus compounds, such as superphosphate, triple superphosphate, or monoammonium phosphate. They are commonly used in agriculture to promote root growth and increase crop yields.",
+                    "examples": [
+                        "Superphosphate",
+                        "Triple superphosphate",
+                        "Monoammonium phosphate"
+                    ]
+                },
+                "potassium_fertilizers":{
+                    "name": "Potassium fertilizers",
+                    "description": "Potassium fertilizers are fertilizers that contain potassium compounds, such as potassium chloride, potassium sulfate, or potassium nitrate. They are commonly used in agriculture to improve soil fertility and promote plant growth.",
+                    "examples": [
+                        "Potassium chloride",
+                        "Potassium sulfate",
+                        "Potassium nitrate"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Pharmaceuticals",
+            "description": "Pharmaceuticals are chemicals used to treat, cure, or prevent diseases in humans and animals. They are also used in veterinary medicine to treat and prevent diseases in animals.",
+            "categories": {
+                "antibiotics":{
+                    "name": "Antibiotics",
+                    "description": "Antibiotics are pharmaceuticals that are used to treat bacterial infections. They are commonly used in human and veterinary medicine to cure diseases caused by bacteria.",
+                    "examples": [
+                        "Penicillin",
+                        "Amoxicillin",
+                        "Ciprofloxacin"
+                    ]
+                },
+                "antivirals":{
+                    "name": "Antivirals",
+                    "description": "Antivirals are pharmaceuticals that are used to treat viral infections. They are commonly used in human and veterinary medicine to cure diseases caused by viruses.",
+                    "examples": [
+                        "Acyclovir",
+                        "Oseltamivir",
+                        "Ribavirin"
+                    ]
+                },
+                "antifungals":{
+                    "name": "Antifungals",
+                    "description": "Antifungals are pharmaceuticals that are used to treat fungal infections. They are commonly used in human and veterinary medicine to cure diseases caused by fungi.",
+                    "examples": [
+                        "Fluconazole",
+                        "Ketoconazole",
+                        "Itraconazole"
+                    ]
+                },
+                "vaccines":{
+                    "name": "Vaccines",
+                    "description": "Vaccines are pharmaceuticals that are used to prevent diseases by stimulating the immune system to produce antibodies against a particular disease. They are commonly used in human and veterinary medicine to prevent the spread of infectious diseases.",
+                    "examples": [
+                        "Measles vaccine",
+                        "Influenza vaccine",
+                        "Rabies vaccine"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Cleaning agents",
+            "description": "Cleaning agents are chemicals used to clean and sanitize surfaces. They are commonly used in households, hospitals, and industries to maintain hygiene and prevent the spread of diseases.",
+            "categories": {
+                "disinfectants":{
+                    "name": "Disinfectants",
+                    "description": "Disinfectants are cleaning agents that are used to kill or remove harmful microorganisms, such as bacteria, viruses, and fungi. They are commonly used in hospitals and households to sanitize surfaces and prevent the spread of diseases.",
+                    "examples": [
+                        "Bleach",
+                        "Hydrogen peroxide",
+                        "Quaternary ammonium compounds"
+                    ]
+                },
+                "detergents":{
+                    "name": "Detergents",
+                    "description": "Detergents are cleaning agents that are used to remove dirt and stains from surfaces. They are commonly used in households and industries to clean clothes, dishes, and other surfaces.",
+                    "examples": [
+                        "Surfactants",
+                        "Enzymes",
+                        "Builders"
+                    ]
+                },
+                "degreasers":{
+                    "name": "Degreasers",
+                    "description": "Degreasers are cleaning agents that are used to remove grease and oil from surfaces. They are commonly used in industries to clean machinery and equipment.",
+                    "examples": [
+                        "Solvent-based degreasers",
+                        "Water-based degreasers",
+                        "Alkaline degreasers"
+                    ]
+                }
+            }
+        }
+    ]
+}
